@@ -6,7 +6,7 @@ public class Main {
     private static final String IP = "34.221.182.150";
     private static final String COLLECTION_NAME = "swipes";
     private static final String MONGO_DB_ID = "jinp4095";
-    private static final String MONGO_DB_PW = "Frenchpie02";
+    private static final String MONGO_DB_PW = "password";
     private static final String DB_NAME = "TwinderDB";
 
 
